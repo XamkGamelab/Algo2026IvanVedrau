@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../../../../source/repos/Algo1/Algo1/Algo1.vcxproj" Id="d9052f0b-ba7b-42c8-afaf-0a881cc67751" />
+  <Project Path="BinarySearch of sorted array/BinarySearch of sorted array.vcxproj" Id="e514a887-ff43-404b-bf39-01d9877bfc71" />
+  <Project Path="EuclidAlgo/EuclidAlgo.vcxproj" Id="8390cc46-446d-457a-b41d-aa6b4b37bc69" />
+  <Project Path="Task 1.1/Task 1.1.vcxproj" Id="76772abc-971c-4865-a670-e8d9ad02403f" />
+  <Project Path="Task 1.2/Task 1.2.vcxproj" Id="995a0dab-3591-4c67-9d4e-4451da63e1fb" />
+</Solution>
