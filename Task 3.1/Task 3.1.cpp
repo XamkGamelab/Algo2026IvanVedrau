@@ -44,7 +44,4 @@ int main()
 {
    std::cout << fibWithArray(7) << '\n';
    std::cout << fibNoArray(7) << '\n';
-
-
-   
 }
