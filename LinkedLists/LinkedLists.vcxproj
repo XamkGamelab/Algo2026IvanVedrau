@@ -141,10 +141,15 @@
   <ItemGroup>
     <ClCompile Include="LinkedLists.cpp" />
     <ClCompile Include="Node.cpp" />
+    <ClCompile Include="stack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LinkedLists.h" />
     <ClInclude Include="Node.h" />
+    <ClInclude Include="stack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\index.html" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

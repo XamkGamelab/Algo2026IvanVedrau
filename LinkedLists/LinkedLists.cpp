@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include "stack.h"
 #include "LinkedLists.h"
 
 bool LinkedList::IsEmpty() {
@@ -108,10 +109,11 @@ void LinkedList::Reverse() {
 	head = prev;
 }
 
-
+/*
 
 int main()
 {
+
 	LinkedList ll;
 
 	ll.InsertEnd(2);
@@ -139,3 +141,4 @@ int main()
 	std::cout << "IsEmpty(): " << ll.IsEmpty() << '\n'; 
 	return EXIT_SUCCESS;
 }
+*/

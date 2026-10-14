@@ -21,13 +21,24 @@
     <ClCompile Include="Node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedLists.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="stack.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LinkedLists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\index.html">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

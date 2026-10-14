@@ -7,7 +7,7 @@ public:
 
 	Node(int data) {
 		this->data = data;
-		this->next = next;
+		this->next = nullptr;
 	}
 
 };
