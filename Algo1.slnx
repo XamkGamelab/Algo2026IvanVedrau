@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="BinarySearch of sorted array/BinarySearch of sorted array.vcxproj" Id="e514a887-ff43-404b-bf39-01d9877bfc71" />
+  <Project Path="BST/BST.vcxproj" Id="8a43c374-f90f-42b3-b529-aefe002c8e5e" />
   <Project Path="EuclidAlgo/EuclidAlgo.vcxproj" Id="8390cc46-446d-457a-b41d-aa6b4b37bc69" />
   <Project Path="Homework 3.2/Homework 3.2.vcxproj" Id="aa83c9e0-4156-4e97-b30a-ae100c37ad23" />
   <Project Path="LinkedLists/LinkedLists.vcxproj" Id="fdf83923-a2ce-43cf-8596-ecd106cd42f1" />
