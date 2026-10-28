@@ -2,19 +2,19 @@
 class BSTNode {
 public:
 	int key;
-	BSTNode* pLeft;
-	BSTNode* pRight;
+	BSTNode* left;
+	BSTNode* right;
 
 	BSTNode() {
 		key = -1;
-		pLeft = nullptr;
-		pRight = nullptr;
+		left = nullptr;
+		right = nullptr;
 	}
 
 	//constructor with key value as parameter
 	BSTNode(int value) {
 		key = value;
-		pLeft = nullptr;
-		pRight = nullptr;
+		left = nullptr;
+		right = nullptr;
 	}
 };
