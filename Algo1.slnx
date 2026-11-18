@@ -9,6 +9,7 @@
   <Project Path="Heap/Heap.vcxproj" Id="831bb6bc-644f-4c66-a861-0b6ac19f7a2b" />
   <Project Path="Homework 3.2/Homework 3.2.vcxproj" Id="aa83c9e0-4156-4e97-b30a-ae100c37ad23" />
   <Project Path="LinkedLists/LinkedLists.vcxproj" Id="fdf83923-a2ce-43cf-8596-ecd106cd42f1" />
+  <Project Path="MergeAndShellSorts/MergeAndShellSorts.vcxproj" Id="645cde9a-be40-4e91-be32-b89d65456c9e" />
   <Project Path="Task 1.1/Task 1.1.vcxproj" Id="76772abc-971c-4865-a670-e8d9ad02403f" />
   <Project Path="Task 1.2/Task 1.2.vcxproj" Id="995a0dab-3591-4c67-9d4e-4451da63e1fb" />
   <Project Path="Task 3.1/Task 3.1.vcxproj" Id="2ab62d34-6bd8-436c-8336-aa7e33ad684d" />
